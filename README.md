@@ -1,9 +1,9 @@
-# CheckoutCo × AcmePay
+# Northstar Checkout × AcmePay
 
-This is CheckoutCo's TypeScript checkout service. It is pinned to AcmePay SDK
+This is Northstar's TypeScript checkout service. It is pinned to AcmePay SDK
 v1.8.2 and uses provider webhooks to manage payment and refund state.
 
-CheckoutCo uses automated provider updates to keep the integration current
+Northstar uses automated provider updates to keep the integration current
 without changing its stable business behavior.
 
 ## The breaking change
